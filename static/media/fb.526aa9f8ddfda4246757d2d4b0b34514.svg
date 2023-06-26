@@ -1,0 +1,7 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 52" width="52" height="52">
+	<title>linkedin-svg</title>
+	<style>
+		.s0 { fill: #ffffff } 
+	</style>
+	<path id="Layer" class="s0" d="m52 26.2c0-14.5-11.6-26.2-26-26.2-14.4 0-26 11.7-26 26.2 0 13 9.5 23.8 21.9 25.8v-18.3h-6.6v-7.5h6.6v-5.8c0-6.6 3.9-10.2 9.9-10.2 2.8 0 5.8 0.5 5.8 0.5v6.5h-3.3c-3.2 0-4.2 2-4.2 4.1v4.9h7.2l-1.2 7.5h-6v18.3c12.4-2 21.9-12.8 21.9-25.8z"/>
+</svg>
